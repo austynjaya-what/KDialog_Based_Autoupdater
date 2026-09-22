@@ -1,0 +1,15 @@
+<<GUI Autoupdater System(Prototype INDEX 1)>>
+
+"To update your system in the background for you without the Inconvinience of Slow Marketplace apps and terminals!"
+Made by: Austyn Jaya of Jubilee School Jakarta, Indonesia
+Contact me by EMAIL on either Austyn.jaya.aj@gmail.com or Austyn.jubilee@gmail.com
+Hi My name is Austyn....
+Anyways, I kind of love to program but there is little motivation for me to continue..., So It may take a very long time to actually update the autoupdater system again... (sad ik)
+But still, I am an avid coder..., though I feel regretful using some AI to help me design this simple ahh system.
+But even then, I just hope this system helps improve the overall KDE System... (Well until KDE Discover doesn't kill itself over and over...)
+Thanks a lot and remember, Being Curious is a gift!
+     --- Austyn Jaya, 10B
+
+
+Credits due to : Me, some AI and my computer!
+Though it needs KDialog to work
